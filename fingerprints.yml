@@ -1,0 +1,74 @@
+wordpress:
+  - "wp-content"
+  - "wp-includes"
+  - "wp-json"
+  - "wp-admin"
+  - "xmlrpc.php"
+  - "<link rel=\"shortlink\""
+  - "<meta name=\"generator\" content=\"WordPress"
+
+joomla:
+  - "option=com_"
+  - "Joomla!"
+  - "joomla.css"
+  - "com_content"
+  - "com_users"
+  - "com_login"
+  - "com_media"
+  - "com_weblinks"
+
+drupal:
+  - "drupal.js"
+  - "sites/default/files/"
+  - "sites/default/themes/"
+  - "sites/all/themes/"
+  - "sites/all/modules/"
+  - "Drupal.settings"
+
+magento:
+  - "Magento_Ui/js/core/app"
+  - "Magento_Ui/js/modal/modal"
+  - "Magento_Customer/js/customer-data"
+  - "mage/translate.js"
+  - "requirejs-config.js"
+  - "admin__controlV1.css"
+
+prestashop:
+  - "prestashop.com"
+  - "content_only"
+  - "product-sort.tpl"
+  - "modules/ps_imageslider/"
+  - "modules/homefeatured/"
+  - "themes/prestashop/assets/css/"
+  - "themes/default-bootstrap/assets/css/"
+  - "class=\"hideWhenNoCurrency"
+  
+mediawiki:
+  - "<meta name=\"generator\" content=\"MediaWiki"
+  - "<link rel=\"stylesheet\" href=\"/skins"
+  - "mw.config.set( {\"wgVersion\""
+
+opencart:
+  - "index.php?route="
+  - "catalog/view/theme/"
+  - "image/data/"
+  - "admin/view/javascript/"
+  - "admin/view/stylesheet/"
+  - "index.php?route=common/home"
+  - "index.php?route=product/category"
+
+drupal7:
+  - "<meta name=\"Generator\" content=\"Drupal 7"
+  - "<meta name=\"viewport\" content=\"width=device-width"
+  - "sites/default/files/"
+  - "sites/all/themes/"
+  - "sites/all/modules/"
+  - "sites/default/themes/"
+  
+vBulletin:
+  - "vbulletin_css/style"
+  - "vbulletin-cp.css"
+  - "clientscript/vbulletin_global.js"
+  - "<meta name=\"generator\" content=\"vBulletin"
+  - "<link href=\"clientscript/vbulletin_css"
+  - "<script type=\"text/javascript\" src=\"clientscript/vbulletin_md5.js"
